@@ -49,3 +49,9 @@ Month 48: $0.00
 ```bash
 javac src/Main.java
 java -cp src Main
+```
+
+## 📥 Download
+
+Download the compiled `.jar` from the [latest release](https://github.com/yourusername/mortgage_calculator_final/releases).
+
