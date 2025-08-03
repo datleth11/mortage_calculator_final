@@ -21,7 +21,7 @@ A beginner-friendly Java CLI application that calculates mortgage payments and o
 
 
 ## 🧪 Sample Output
-
+``` bash
 Please enter your name: User
 Hello User
 Enter your principal: 15000
@@ -42,7 +42,7 @@ Month 4: $13,871.89
 ....
 Month 47: $347.26
 Month 48: $0.00
-
+```
 
 ## 🛠️ How to Run
 
