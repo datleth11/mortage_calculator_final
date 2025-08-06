@@ -11,14 +11,11 @@ A beginner-friendly Java CLI application that calculates mortgage payments and o
 - Uses modular, well-structured methods
 - Friendly user prompts and clean output
 
-## 📁 Folder Structure
-  mortgage-calculator/
-  ├── src/
-  │ └── Main.java
-  ├── .gitignore
-  ├── README.md
-  └── LICENSE (optional)
-
+## 📁Files
+- `Main.java` – Entry point
+- `Console.java` – Handles input and validation
+- `CalculateMortgage.java` – Core calculation logic
+- `MortgageReport.java` – Displays output
 
 ## 🧪 Sample Output
 ``` bash
@@ -54,4 +51,7 @@ java -cp src Main
 ## 📥 Download
 
 Download the compiled `.jar` from the [latest release](https://github.com/yourusername/mortgage_calculator_final/releases).
+
+## Author
+Dat T. Le (datleth11)
 
